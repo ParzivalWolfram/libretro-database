@@ -65,7 +65,7 @@ game (
 
 game (
 	comment "Donkey Kong (USA, Europe)"
-	releaseyear "2018"
+	releaseyear "1982"
 	rom ( crc C30F61C0 )
 )
 
